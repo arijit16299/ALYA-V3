@@ -9,7 +9,7 @@ module.exports = {
     config: {
         name: "sing",
         version: "1.7",
-        author: "MahMUD", 
+        author: "Ariyan", 
         countDown: 10,
         role: 0,
         category: "music",
